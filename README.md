@@ -22,18 +22,18 @@ $ python3 Aplicacao01.py
 
 #Aplicação02: 
 
-1. Install dependencies:
+1. Instalar Dependências:
 ```
     $ pip3 install -r requirements.txt
 ```
-2. Configure environment variables:
+2. Configurar variáveis de ambiente:
 
     ```
     $ export FLASK_APP=Aplicacao02.py
     $ export SECRET_KEY=UUyaGPCAVMhiEjOL4MprsjQJTPJIXymaSAzCaA4jDk8=
     $ export REDIS_URL=rediss://:UUyaGPCAVMhiEjOL4MprsjQJTPJIXymaSAzCaA4jDk8=@treinamentoazureelvenworks.redis.cache.windows.net:6380/0
 
-3.  Start the server on port 5000:
+3. Iniciar servidor na porta 5000:
 ```
     $ flask run -h 0.0.0.0 -p 5000
 
