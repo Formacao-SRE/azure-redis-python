@@ -1,8 +1,8 @@
 # azure-redis-python
-#Clonar Repositório:
+# Clonar Repositório:
 
     $ git clone https://github.com/Formacao-SRE/azure-redis-python.git
-#Linha de Comando: 
+# Linha de Comando: 
 ```
 $ apt update && apt install python3-pip -y
 $ pip3 install redis
@@ -15,12 +15,12 @@ True
 b'Azure Elvenworks'
 ```
 
-#Aplicação01: 
+# Aplicação01: 
 ```
 $ python3 Aplicacao01.py 
 ```
 
-#Aplicação02: 
+# Aplicação02: 
 
 1. Instalar Dependências:
 ```
